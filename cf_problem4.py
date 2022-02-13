@@ -1,0 +1,5 @@
+m,n=input().split()
+m=int(m)
+n=int(n)
+max_num=int(m*n/2)
+print(max_num)
